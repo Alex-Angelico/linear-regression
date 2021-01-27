@@ -42,5 +42,4 @@ Then select and open ```regression.ipynb```
 
 ## Change Log
 
-: ** - 23 Jan 2021
-# linear-regression
+1.0: *Linear Regression Model Complete* - 23 Jan 2021
